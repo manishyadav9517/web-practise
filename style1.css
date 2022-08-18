@@ -1,0 +1,27 @@
+h1{
+    border:2px solid green;
+    padding:10px;
+}
+header{
+    padding:1.5rem;
+    width:500px;
+    color: aqua;
+    background-color: bisque;
+  /* border:2px dashed blue;*/
+}
+.box{
+    font-size:1.5rem;
+    margin: auto;
+    padding: 0%;
+}
+div {
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    margin-left: 540px;
+  }
+  body{
+    background-color: blanchedalmond;
+  }
